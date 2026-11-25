@@ -34,15 +34,15 @@
 
 <br/>
 
-| Proyecto | Descripción |
-| :-- | :-- |
-| [`libft`](https://github.com/Md0609/libft) | Mi propia librería estándar en C |
-| [`ft_printf`](https://github.com/Md0609/ft_printf) | Reimplementación de `printf` |
-| [`get_next_line`](https://github.com/Md0609/get_next_line) | Lectura de un descriptor de fichero línea a línea |
-| [`Push_swap`](https://github.com/Md0609/Push_swap) | Ordenación de pilas con el mínimo de movimientos |
-| [`Pipex`](https://github.com/Md0609/Pipex) | Réplica de las tuberías (`pipe`) de la terminal |
-| [`Philo`](https://github.com/Md0609/Philo) | El problema de los filósofos comensales |
-| [`Minishell`](https://github.com/Md0609/Minishell) | Bash simplificado |
+<p align="center">
+  <a href="https://github.com/Md0609/libft"><img src="assets/proj-libft.svg" alt="libft: mi propia librería estándar en C." width="49%"/></a>
+  <a href="https://github.com/Md0609/ft_printf"><img src="assets/proj-ft-printf.svg" alt="ft_printf: reimplementación de printf." width="49%"/></a>
+  <a href="https://github.com/Md0609/get_next_line"><img src="assets/proj-get-next-line.svg" alt="get_next_line: lectura de un descriptor de fichero línea a línea." width="49%"/></a>
+  <a href="https://github.com/Md0609/Push_swap"><img src="assets/proj-push-swap.svg" alt="Push_swap: ordenación de pilas con el mínimo de movimientos." width="49%"/></a>
+  <a href="https://github.com/Md0609/Pipex"><img src="assets/proj-pipex.svg" alt="Pipex: réplica de las tuberías de la terminal." width="49%"/></a>
+  <a href="https://github.com/Md0609/Philo"><img src="assets/proj-philo.svg" alt="Philosophers: el problema de los filósofos comensales." width="49%"/></a>
+  <a href="https://github.com/Md0609/Minishell"><img src="assets/proj-minishell.svg" alt="Minishell: réplica simplificada de la terminal bash." width="49%"/></a>
+</p>
 
 </details>
 

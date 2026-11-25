@@ -52,6 +52,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Md0609/Md0609/output/github-snake.svg" alt="Gráfico de contribuciones de Md0609 con una serpiente que se come los cuadrados" width="100%"/>
+<img src="https://raw.githubusercontent.com/Md0609/Md0609/output/github-skyline.svg" alt="Skyline de contribuciones: cada día es una torre y su altura depende de la actividad" width="100%"/>
 
 </div>

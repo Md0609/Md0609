@@ -1,4 +1,4 @@
-name: Generar serpiente
+name: Generar skyline
 
 on:
   # Se regenera cada 12 horas
@@ -6,18 +6,18 @@ on:
     - cron: "0 */12 * * *"
   # Botón "Run workflow" en la pestaña Actions
   workflow_dispatch:
-  # Se vuelve a generar si cambia este workflow o el script de estilo
+  # Se vuelve a generar si cambia este workflow o el script
   push:
     branches: [main]
     paths:
-      - ".github/workflows/snake.yml"
-      - ".github/scripts/style_snake.py"
+      - ".github/workflows/skyline.yml"
+      - ".github/scripts/skyline.py"
 
 permissions:
   contents: write
 
 concurrency:
-  group: snake
+  group: skyline
   cancel-in-progress: true
 
 jobs:
@@ -30,15 +30,11 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Generar SVG de la serpiente
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?palette=github-dark
-
-      - name: Aplicar estilo terminal
-        run: python3 .github/scripts/style_snake.py dist/github-snake.svg
+      - name: Generar el SVG con las contribuciones
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/skyline.py dist/github-skyline.svg
 
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v3.1.0

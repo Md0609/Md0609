@@ -18,11 +18,13 @@
 
 ## Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,java,rust,py,linux,git,github&perline=7" alt="C, Java, Rust, Python, Linux, Git, GitHub"/>
-
-</div>
+| Área | Tecnologías |
+| :-- | :-- |
+| **Lenguajes** | <img src="https://skillicons.dev/icons?i=c,java,py,rust&perline=4" alt="C, Java, Python, Rust"/> |
+| **Web** | <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" alt="HTML, CSS, JavaScript"/> |
+| **Móvil** | <img src="https://skillicons.dev/icons?i=kotlin,flutter&perline=2" alt="Kotlin, Flutter"/> |
+| **Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" alt="MySQL, MongoDB"/> |
+| **Herramientas** | <img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" alt="Docker, Linux, Git, GitHub"/> |
 
 ## Proyectos destacados
 

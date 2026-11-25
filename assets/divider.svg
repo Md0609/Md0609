@@ -1,12 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="6" viewBox="0 0 1000 6" role="presentation" aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="4" viewBox="0 0 1000 4" role="presentation" aria-hidden="true">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
-      <stop offset="0" stop-color="#58a6ff"/>
-      <stop offset="0.5" stop-color="#7ee787"/>
-      <stop offset="1" stop-color="#58a6ff"/>
-      <animate attributeName="x1" values="0;1;0" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="1;2;1" dur="6s" repeatCount="indefinite"/>
+    <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ff66" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00ff66"/>
+      <stop offset="1" stop-color="#4cc9f0" stop-opacity="0"/>
     </linearGradient>
+    <clipPath id="c"><rect width="1000" height="4" rx="2"/></clipPath>
+    <style>
+      .p { animation: run 4s linear infinite; }
+      @keyframes run { from { transform: translateX(-300px); } to { transform: translateX(1000px); } }
+      @media (prefers-reduced-motion: reduce) { .p { animation: none; transform: translateX(350px); } }
+    </style>
   </defs>
-  <rect width="1000" height="6" rx="3" fill="url(#g)" opacity=".85"/>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="4" fill="#1c3326"/>
+    <rect class="p" width="300" height="4" fill="url(#pulse)"/>
+  </g>
 </svg>

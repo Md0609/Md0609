@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Matias Dios - Desarrollador en formación" width="100%"/>
+<img src="assets/header.svg" alt="Matias Dios - Desarrollador en formación. Estudiante de DAM, 42 Madrid. C, Java, Rust, Python, Linux y Git." width="100%"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/matias-dios-elias">
   <img src="https://img.shields.io/badge/LinkedIn-Matias%20Dios-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/Md0609?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositorios-11-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"/>
+<a href="https://github.com/Md0609">
+  <img src="https://img.shields.io/badge/GitHub-Md0609-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <img src="https://img.shields.io/badge/42-Madrid-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Madrid"/>
 
@@ -16,32 +16,25 @@
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
-## 👋 Sobre mí
-
-- 🎓 Estudio **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-- 💻 Base sólida en **programación de sistemas** gracias a los proyectos de **42 Madrid**: `libft`, `Minishell`, `Philosophers`...
-- 🤖 Exploro **IA aplicada**: un copiloto de inversión y un analizador de imágenes.
-- 🌱 Aprendo cada día y construyo en público.
-
-## 🛠️ Stack
+## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,ts,html,bash,linux,git,github&perline=8" alt="C, C++, TypeScript, HTML, Bash, Linux, Git, GitHub"/>
+<img src="https://skillicons.dev/icons?i=c,java,rust,py,linux,git,github&perline=7" alt="C, Java, Rust, Python, Linux, Git, GitHub"/>
 
 </div>
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
-| Proyecto | Descripción | Stack |
+| Proyecto | Descripción | Lenguaje |
 | :-- | :-- | :-: |
-| 📈 [**AtlasAI**](https://github.com/Md0609/AtlasAI) | Copiloto de inversión | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| 🔍 [**VisionScope**](https://github.com/Md0609/VisionScope) | Analizador de imágenes | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
-| 🧮 [**Stratum-Sort**](https://github.com/Md0609/Stratum-Sort) | Mi propio algoritmo de ordenación | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) |
-| 🐚 [**Minishell**](https://github.com/Md0609/Minishell) | Réplica simplificada de la terminal bash | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) |
+| [**Minishell**](https://github.com/Md0609/Minishell) | Réplica simplificada de la terminal bash | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) |
+| [**Philosophers**](https://github.com/Md0609/Philo) | El problema de los filósofos comensales | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) |
+| [**Stratum-Sort**](https://github.com/Md0609/Stratum-Sort) | Mi propio algoritmo de ordenación | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) |
+| [**get_next_line**](https://github.com/Md0609/get_next_line) | Lectura de un descriptor de fichero línea a línea | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) |
 
 <details>
-<summary><b>🎓 Currículo de 42 Madrid (click para desplegar)</b></summary>
+<summary><b>Currículo de 42 Madrid (click para desplegar)</b></summary>
 
 <br/>
 
@@ -59,7 +52,14 @@
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
-## 📫 Hablemos
+## Actividad
 
-¿Un proyecto, una colaboración o charlar de código?
-Escríbeme por [**LinkedIn**](https://www.linkedin.com/in/matias-dios-elias) 🙌
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Md0609/Md0609/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Md0609/Md0609/output/github-snake.svg"/>
+  <img alt="Gráfico de contribuciones de Md0609 con una serpiente que se come los cuadrados" src="https://raw.githubusercontent.com/Md0609/Md0609/output/github-snake.svg" width="100%"/>
+</picture>
+
+</div>

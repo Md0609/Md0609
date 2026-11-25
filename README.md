@@ -18,13 +18,7 @@
 
 ## Stack
 
-| Área | Tecnologías |
-| :-- | :-- |
-| **Lenguajes** | <img src="https://skillicons.dev/icons?i=c,java,py,rust&perline=4" alt="C, Java, Python, Rust"/> |
-| **Web** | <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" alt="HTML, CSS, JavaScript"/> |
-| **Móvil** | <img src="https://skillicons.dev/icons?i=kotlin,flutter&perline=2" alt="Kotlin, Flutter"/> |
-| **Bases de datos** | <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" alt="MySQL, MongoDB"/> |
-| **Herramientas** | <img src="https://skillicons.dev/icons?i=docker,linux,git,github&perline=4" alt="Docker, Linux, Git, GitHub"/> |
+<img src="assets/stack.svg" alt="Stack. Lenguajes: C, Java, Python, Rust. Web: HTML, CSS, JavaScript. Móvil: Kotlin, Flutter. Bases de datos: MySQL, MongoDB. Herramientas: Docker, Linux, Git, GitHub." width="100%"/>
 
 ## Proyectos destacados
 

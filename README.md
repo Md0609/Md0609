@@ -22,12 +22,12 @@
 
 ## Proyectos destacados
 
-| Proyecto | Descripción | Lenguaje |
-| :-- | :-- | :-: |
-| [**Minishell**](https://github.com/Md0609/Minishell) | Réplica simplificada de la terminal bash | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) |
-| [**Philosophers**](https://github.com/Md0609/Philo) | El problema de los filósofos comensales | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) |
-| [**Stratum-Sort**](https://github.com/Md0609/Stratum-Sort) | Mi propio algoritmo de ordenación | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) |
-| [**get_next_line**](https://github.com/Md0609/get_next_line) | Lectura de un descriptor de fichero línea a línea | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) |
+<p align="center">
+  <a href="https://github.com/Md0609/Minishell"><img src="assets/proj-minishell.svg" alt="Minishell: réplica simplificada de la terminal bash. Lenguaje C." width="49%"/></a>
+  <a href="https://github.com/Md0609/Philo"><img src="assets/proj-philo.svg" alt="Philosophers: el problema de los filósofos comensales. Lenguaje C." width="49%"/></a>
+  <a href="https://github.com/Md0609/Stratum-Sort"><img src="assets/proj-stratum-sort.svg" alt="Stratum-Sort: mi propio algoritmo de ordenación. Lenguaje C++." width="49%"/></a>
+  <a href="https://github.com/Md0609/get_next_line"><img src="assets/proj-get-next-line.svg" alt="get_next_line: lectura de un descriptor de fichero línea a línea. Lenguaje C." width="49%"/></a>
+</p>
 
 <details>
 <summary><b>Currículo de 42 Madrid (click para desplegar)</b></summary>
